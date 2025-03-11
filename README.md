@@ -23,4 +23,4 @@ L'utente deve **indovinare la parola nascosta** inserendo lettere una alla volta
 Compila il codice usando `g++`:
 
 ```sh
-g++ impiccato.cpp -o impiccato
+g++ -std=c++17 main.cpp -o impiccato
